@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009957983874",
+    "project_id": "moviles-22-practicafirebase2-0",
+    "storage_bucket": "moviles-22-practicafirebase2-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009957983874:android:2983c2f1e31bee6255c69b",
+        "android_client_info": {
+          "package_name": "com.movilesi.practicafirebase20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009957983874-fntgtkrr5gdmk1mhaq1tkbcejoku2jut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeemz3cNMw3TyDKajNRWRjnfzPJv5Csck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009957983874-fntgtkrr5gdmk1mhaq1tkbcejoku2jut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
